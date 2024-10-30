@@ -1,12 +1,16 @@
 SUCCESS
 SUCCESS
-0
 SUCCESS
 SUCCESS
-0
 SUCCESS
-PRIMARY 1.0, SECONDARY 0 
-PARTIAL_SUCCESS
-Nincs elérhető torpedó
-PRIMARY 0.5, SECONDARY 0
-GT4500,<PRIMARY_COUNT>,<PRIMARY_FAILURE_RATE>,<SECONDARY_COUNT>,<SECONDARY_FAILURE_RATE>; TORPEDO,<FIRING_MODE>; HELP; EXIT Program leállítása...
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS
+SUCCESS
+Available commands: [GT4500, TORPEDO, EXIT, HELP] 
+Generally, commands receive parameters; refer to the documentation 
+Before firing torpedoes using the TORPEDO command, you must initialize a ship (eg. a GT4500) using its name as a command
